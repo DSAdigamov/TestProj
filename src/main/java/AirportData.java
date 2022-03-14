@@ -53,7 +53,7 @@ public class AirportData implements Comparable<AirportData> {
     @Override
     public String toString() {
         return (this.getColumns()[1] + ", " + this.getColumns()[2] + ", " + this.getColumns()[3] + ", " + this.getColumns()[4] + ", " + this.getColumns()[5] + ", " +
-                this.getColumns()[6] + ", " + this.getColumns()[1] + ", " + this.getColumns()[7] + ", "+ this.getColumns()[1] + ", " + this.getColumns()[8] + ", " +
-                this.getColumns()[10] + ", " + this.getColumns()[11] + ", " + this.getColumns()[12] + ", " + this.getColumns()[13]);
+                this.getColumns()[6] + ", " + this.getColumns()[7] + ", " + this.getColumns()[8] + ", "+ this.getColumns()[9] + ", " + this.getColumns()[10] + ", " +
+                this.getColumns()[11] + ", " + this.getColumns()[12] + ", " + this.getColumns()[13]);
     }
 }
